@@ -8,3 +8,4 @@ Materiales:
 - Sensor de corriente de efecto Hall ACS712
 - Módulo lector de SD
 - Módulo RTC DS1307
+Importante: Descargar las respectivas librerías
